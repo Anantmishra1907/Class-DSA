@@ -1,3 +1,4 @@
+package Arrays;
 public class ArrayElements {
     public int[] arrangeArray(int[] arr) {
         int n = arr.length;

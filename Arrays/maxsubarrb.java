@@ -1,3 +1,4 @@
+package Arrays;
 public class maxsubarrb {
     public int maxSubArray(int[] nums) {
         int n = nums.length;

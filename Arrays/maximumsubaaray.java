@@ -1,3 +1,4 @@
+package Arrays;
 public class maximumsubaaray {
     public int maxSubArray(int[] nums) {
         int maxSoFar = nums[0];

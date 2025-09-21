@@ -1,3 +1,4 @@
+package Arrays;
 /*
  * Author : Anant mishra
  * Date : 26-06-2024

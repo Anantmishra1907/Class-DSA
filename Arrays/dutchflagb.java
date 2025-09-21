@@ -1,3 +1,4 @@
+package Arrays;
 public class dutchflagb {
     public int[] sortnum(int num [] ){
         int n = num.length;

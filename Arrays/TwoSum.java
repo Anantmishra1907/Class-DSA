@@ -1,5 +1,5 @@
-// Bruteforce solution for the Two Sum problem
 
+import java.util.*;
 public class TwoSum {
     public int[] findTwoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
